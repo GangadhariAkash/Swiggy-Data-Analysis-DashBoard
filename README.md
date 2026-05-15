@@ -32,7 +32,8 @@ This dashboard helps stakeholders:
 - Make data-driven decisions
 
 ## 🖼 Dashboard Preview
-![Dashboard Preview](dashboard_preview.png)
+<img width="1341" height="531" alt="image" src="https://github.com/user-attachments/assets/e8636f9d-7b48-4d20-b693-4b0fc8d9768b" />
+
 
 ## 👤 Author
 **Akash Gangadhari**  
